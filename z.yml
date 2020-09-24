@@ -1,0 +1,13 @@
+---
+description: Driver for Invensense MPU6050 motion sensor
+fullname: lib.invensense.mpu6050
+info:
+    chip_manufacturer: Invensense
+    chip_name: MPU6050
+    name: Motion Sensor
+    type: Sensor
+keywords:
+- invensense
+- motion sensor
+title: MPU6050 Motion Sensor
+...
